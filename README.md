@@ -1,2 +1,2 @@
-# .psd Fabric ModPack
- A ModPack *(Minecraft 1.19.2)* made for the Content Creators of .psd, its Collaborators & Friends
+# Pengwingly Optimized
+ A Fabric ModPack *(based on Fabulously Optimized)* with some additions for the .psd Content Creators Group and its Collaborators & Friends
