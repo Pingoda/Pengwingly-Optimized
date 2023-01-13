@@ -5,6 +5,6 @@
   "enableWynntils": true,
   "enableMinecraftCapesMod": true,
   "enableCosmetica": true,
-  "enableCloaksPlus": false,
+  "enableCloaksPlus": true,
   "enableElytraTexture": true
 }
