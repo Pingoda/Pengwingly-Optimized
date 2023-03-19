@@ -80,5 +80,6 @@ This ModPack is made for **Optimization** and **QoL** changes to the base game, 
  - [Roughly Enough Professions (REP)](https://modrinth.com/mod/roughly-enough-professions-rep)
  - [Roughly Enough Loot Tables (RELT)](https://modrinth.com/mod/roughly-enough-loot-tables)
  - [Roughly Searchable](https://modrinth.com/mod/roughly-searchable)
+ - [WorldEdit](https://beta.curseforge.com/minecraft/mc-mods/worldedit)
 
 ***If you want to suggest more Mods feel free to do so!***
