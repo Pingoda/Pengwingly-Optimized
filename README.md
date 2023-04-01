@@ -81,5 +81,6 @@ This ModPack is made for **Optimization** and **QoL** changes to the base game, 
  - [Roughly Enough Loot Tables (RELT)](https://modrinth.com/mod/roughly-enough-loot-tables)
  - [Roughly Searchable](https://modrinth.com/mod/roughly-searchable)
  - [WorldEdit](https://beta.curseforge.com/minecraft/mc-mods/worldedit)
+ - [Noxesium](https://modrinth.com/mod/noxesium)
 
 ***If you want to suggest more Mods feel free to do so!***
